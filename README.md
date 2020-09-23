@@ -21,14 +21,13 @@ All numbers divisible by both 3 and 5 are replaced by "ping-pong".
 | Numbers divisible by 5 is replaced by pong  | 5  |             [1,2,'ping',4,'pong']|
 
 ## Setup/Installation Requirements
-Add this line to your application's Gemfile
+* Add this line to your application's Gemfile
 -----
- gem 'pingpong' 
---------
-And then execute:
+gem 'pingpong' 
+* And then execute:
 -----
  $ bundle
-Or install it yourself as:
+* Or install it yourself as:
 ------
  $ gem install pingpong
 ## Known Bugs
@@ -39,7 +38,7 @@ _No known bugs_
 
 _Contact me via aw@gmail.com_
 ## Contributing
-* Visit the live site at (https://awkey0.github.io/Delani_Studio/)
+* Visit the live site at (https://github.com/Abdihakim12/ping_pong)
 1. Fork it
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
@@ -47,9 +46,9 @@ _Contact me via aw@gmail.com_
 5.  Create new Pull Request
 
 ## Technologies Used
-*Ruby
-*gem rspec
-*git
+* _Ruby_
+* _gem rspec_
+* _git_
 
 ### License
 
