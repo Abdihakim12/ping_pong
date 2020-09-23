@@ -17,16 +17,20 @@ All numbers divisible by both 3 and 5 are replaced by "ping-pong".
 | ------------- | ------------- |-------------|
 | returns an array of ascending numbers up to the number entered | 2  |    [1,2]|
 | Numbers divisible by both 3 and 5 are replaced by "ping-pong" | 15  |[1, 2, "ping", 4, "pong", "ping", 7, 8, "ping", "pong", 11, "ping", 13, 14, "ping"] |
-| Numbers divisible by 3 is replaced by ping  | 3  |             [1,2,'pong']|
-| Numbers divisible by 5 is replaced by pong  | 3  |             [1,2,'pong',4,'pong']|
+| Numbers divisible by 3 is replaced by ping  | 3  |             [1,2,'ping']|
+| Numbers divisible by 5 is replaced by pong  | 5  |             [1,2,'ping',4,'pong']|
 
 ## Setup/Installation Requirements
-Add this line to your application's Gemfile:
-* _gem 'pingpong'_
+Add this line to your application's Gemfile
+-----
+ gem 'pingpong' 
+--------
 And then execute:
-* _$ bundle_
+-----
+ $ bundle
 Or install it yourself as:
-* _$ gem install pingpong_
+------
+ $ gem install pingpong
 ## Known Bugs
 
 _No known bugs_
