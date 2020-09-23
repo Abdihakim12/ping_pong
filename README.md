@@ -54,6 +54,4 @@ _Contact me via aw@gmail.com_
 
 ### License
 
-[License](https://github.com/Abdihakim12/ping_pong/blob/master/LICENSE)
-
-Code released under the MIT License.
+[License](https://github.com/Abdihakim12/ping_pong/blob/master/LICENSE) Code released under the MIT License.
